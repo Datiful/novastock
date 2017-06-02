@@ -1,0 +1,2 @@
+# novastock
+web operadores
